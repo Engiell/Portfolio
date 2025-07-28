@@ -8,15 +8,15 @@ public class ContactServiceTest {
     public void testAddAndSearchContactsByPrefix() {
         ContactService service = new ContactService();
 
-        Contact a = new Contact("1", "Mike", "Smith", "1234567890", "123 Widow Street");
-        Contact b = new Contact("2", "Melissa", "Brown", "2345678901", "456 Fell Avenue");
+        Contact a = new Contact("1", "Annita", "Smith", "1234567890", "123 Widow Street");
+        Contact b = new Contact("2", "Annabelle", "Brown", "2345678901", "456 Fell Avenue");
         Contact c = new Contact("3", "Rachel", "Smith", "3456789012", "789 Willowwood Drive");
 
         service.addContact(a);
         service.addContact(b);
         service.addContact(c);
 
-        List<Contact> results = service.searchContactsByPrefix("An");
+        List<Contact> results = service.searchContactsByPrefix("Ann");
 
         assertEquals(2, results.size());
         assertTrue(results.contains(a));
