@@ -1,7 +1,6 @@
 # Anthony Bradley's Portfolio
 
-Welcome to my GitHub Portfolio! This repository showcases coursework and projects from my Computer Science studies at SNHU, with a focus on embedded systems, Python development, and system-level programming.
-
+Welcome to my GitHub Portfolio! This repository showcases coursework and projects from my Computer Science studies at SNHU.
 ---
 
 ## Projects
