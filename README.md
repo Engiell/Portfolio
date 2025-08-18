@@ -4,7 +4,7 @@ Welcome to my GitHub Portfolio! This repository showcases coursework and project
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### [CS-250: Software Development Lifecycle](./CS-250)
 A collection of assignments and documentation demonstrating agile development, version control, and software design principles.
@@ -30,7 +30,3 @@ Explorations in system-level design, reverse engineering, and low-level programm
 ## Contact
 
 Feel free to connect with me on [GitHub](https://github.com/Engiell) or reach out via email: `anthony.bradley4@snhu.edu`
-
----
-
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
