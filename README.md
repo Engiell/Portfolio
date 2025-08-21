@@ -41,9 +41,9 @@ Throughout my coursework, I’ve prioritized academic honesty and original work.
 
 This repository includes:
 
-- **CS-250**: Agile development and lifecycle documentation  
-- **CS-320**: Automated testing and quality assurance practices  
-- **CS-350**: System-level programming and reverse engineering  
+- [CS-250: Agile development and lifecycle documentation](https://github.com/engiell/Portfolio/tree/main/CS-250)  
+- [CS-320: Automated testing and quality assurance practices](https://github.com/engiell/Portfolio/tree/main/CS-320)  
+- [CS-350: System-level programming and reverse engineering](https://github.com/engiell/Portfolio/tree/main/CS-350)  
 
 ## Contact
 
