@@ -16,6 +16,10 @@ Security has been a consistent theme across my academic journey. From inline vul
 
 Welcome to my academic and professional portfolio. This site showcases my work across multiple computer science courses, with a focus on secure software development, ethical reverse engineering, and lifecycle-driven design.
 
+## 📁 Featured Code Review
+
+### [My Code Review](https://youtu.be/9NvVHmyygXU)
+
 ## 📁 Featured Course Projects
 
 ### [CS-250: Software Development Lifecycle](CS-250/)
