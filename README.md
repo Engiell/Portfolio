@@ -5,7 +5,7 @@ Welcome to my GitHub Portfolio! This repository showcases coursework and project
 
 ## Projects
 
-### [CS-250: Software Development Lifecycle](CS-250/)
+### [CS-250 Project Page](CS-250/index.md)
 - Applied agile methodologies and version control using Git
 - Led development sprints and documented software requirements
 - Built modular, maintainable code with clarity and precision
