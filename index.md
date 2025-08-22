@@ -3,7 +3,7 @@ layout: default
 title: Anthony's Portfolio
 ---
 
-## 🧠 Professional Self-Assessment
+## Professional Self-Assessment
 Completing the Computer Science program at SNHU and developing my ePortfolio has been a transformative experience—one that sharpened my technical strengths, clarified my professional values, and prepared me to contribute meaningfully to the field of secure software development and ethical reverse engineering. Through rigorous coursework and hands-on projects, I’ve cultivated a skill set that balances precision, creativity, and responsibility.
 
 Throughout the program, I’ve consistently applied modular design principles, secure coding practices, and thorough documentation to every project. My work in courses like CS-320 (Software Testing & QA) and CS-350 (Emerging Systems Architectures) challenged me to build maintainable systems with robust validation logic and scalable architecture. These experiences helped me refine my approach to problem-solving—always prioritizing clarity, testability, and ethical impact.
