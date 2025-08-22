@@ -7,18 +7,18 @@ This page showcases my work in CS-350, where I explored scalable system design, 
 
 ## 📄 Design Documentation
 
-- 📘 [Milestone Two Enhancement Report](CS%20499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering.docx)
-: Analysis of architectural improvements and design decisions.
+- 📘 [`Milestone Two Enhancement Report`](CS%20499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering.docx): Analysis of architectural improvements and design decisions.
 
 ## 💻 Source Code Highlights
 
 ### 🌡️ Thermostat Control System
+
 A modular Python application simulating a smart thermostat:
 
-- `Thermostat.py`: Core logic for temperature regulation  
-- `Milestone1.py`: Initial implementation and system setup  
-- `Milestone3.py`: Final iteration with enhanced control flow  
-- `ThermostatController.zip`: Packaged controller logic and supporting files
+- [`Thermostat.py`](Thermostat.py): Core logic for temperature regulation  
+- [`Milestone1.py`](Milestone1.py): Initial implementation and system setup  
+- [`Milestone3.py`](Milestone3.py): Final iteration with enhanced control flow  
+- [`ThermostatController.zip`](ThermostatController.zip): Packaged controller logic and supporting files
 
 ## 🛠️ Tools & Techniques
 
@@ -30,4 +30,3 @@ A modular Python application simulating a smart thermostat:
 ## 🔍 Reflection
 
 This course emphasized the importance of scalable design and modular thinking. I built a simulated thermostat system with clear control logic and refined it through milestone-based enhancements. The experience reinforced my ability to design maintainable systems and adapt architecture to evolving requirements.
-
