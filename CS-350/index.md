@@ -3,9 +3,6 @@
 - title: "CS-350: Emerging Systems Architectures"
 - ---
 
-
-# 🏗️ CS-350: Emerging Systems Architectures
-
 This page showcases my work in CS-350, where I explored scalable system design, modular architecture, and controller-based logic using Python.
 
 ## 📄 Design Documentation
