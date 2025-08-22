@@ -1,3 +1,8 @@
+---
+layout: default
+title: Anthony's Portfolio
+---
+
 # 🧠 Anthony's Computer Science Portfolio
 
 Welcome to my academic and professional portfolio. This site showcases my work across multiple computer science courses, with a focus on secure software development, ethical reverse engineering, and lifecycle-driven design.
