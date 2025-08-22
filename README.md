@@ -5,17 +5,17 @@ Welcome to my GitHub Portfolio! This repository showcases coursework and project
 
 ## Projects
 
-### [CS-250 Project Page](CS-250/index.md)
+### [CS-250: Software Development Lifecycle](CS-250/index.md)
 - Applied agile methodologies and version control using Git
 - Led development sprints and documented software requirements
 - Built modular, maintainable code with clarity and precision
 
-### CS-320: Software Testing, Automation, and Quality Assurance
+### [CS-320: Software Testing, Automation, and Quality Assurance](CS-320/index.md)
 - Practiced test-driven development and automated testing in Python
 - Created unit tests and QA pipelines aligned with industry standards
 - Reinforced reliability and maintainability in all code artifacts
 
-### CS-350: Emerging Systems Architectures and Technologies
+### [CS-350: Emerging Systems Architectures and Technologies](CS-350/index.md)
 - Explored reverse engineering and low-level programming in NASM
 - Analyzed binary structures and architectural vulnerabilities
 - Strengthened my foundation in secure system-level design
