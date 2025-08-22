@@ -1,7 +1,7 @@
-- ---
-- layout: default
-- title: "CS-250: Software Development Lifecycle"
-- ---
+---
+layout: default
+title: "CS-250: Software Development Lifecycle"
+---
 
 Welcome to my CS-250 project page. This section showcases my work in agile development, modular design, and lifecycle documentation.
 
