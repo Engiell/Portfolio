@@ -12,25 +12,28 @@ This page showcases my work in CS-320, where I applied rigorous testing methodol
 ## 💻 Source Code Highlights
 
 ### 🔧 Contact Management System
+
 A modular Java application with full unit testing coverage:
 
-- `Contact.java`: Data model for contact records  
-- `ContactService.java`: Service layer for managing contacts  
-- `ContactTest.java`: Unit tests for the data model  
-- `ContactServiceTest.java`: Unit tests for service logic
+- [`Contact.java`](Contact.java): Data model for contact records  
+- [`ContactService.java`](ContactService.java): Service layer for managing contacts  
+- [`ContactTest.java`](ContactTest.java): Unit tests for the data model  
+- [`ContactServiceTest.java`](ContactServiceTest.java): Unit tests for service logic
 
 ### 🧪 Updated Implementation
+
 Refined version with improved validation and test coverage:
 
-- `UpdatedContactService.java`  
-- `UpdatedContactTest.java`  
-- `UpdatedContactServiceTest.java`
+- [`UpdatedContactService.java`](UpdatedContactService.java)  
+- [`UpdatedContactTest.java`](UpdatedContactTest.java)  
+- [`UpdatedContactServiceTest.java`](UpdatedContactServiceTest.java)
 
 ### 🌲 Trie Data Structure
+
 Exploration of efficient string storage and retrieval:
 
-- `Trie.java`: Core implementation of the trie  
-- `TrieNode.java`: Node structure for trie operations
+- [`Trie.java`](Trie.java): Core implementation of the trie  
+- [`TrieNode.java`](TrieNode.java): Node structure for trie operations
 
 ## 🛠️ Tools & Techniques
 
