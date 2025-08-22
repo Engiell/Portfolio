@@ -1,4 +1,7 @@
-# 🧪 CS-320: Software Testing & Quality Assurance
+- ---
+- layout: default
+- title: "CS-320: Software Testing & Quality Assurance"
+- ---
 
 This page showcases my work in CS-320, where I applied rigorous testing methodologies, built modular Java applications, and explored data structures and service validation.
 
