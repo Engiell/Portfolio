@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS-350: Emerging Systems Architectures
+title: "CS-350: Emerging Systems Architectures"
 ---
 
 # 🏗️ CS-350: Emerging Systems Architectures
