@@ -12,19 +12,7 @@ My proficiency in data structures and algorithms was strengthened through hands-
 
 Security has been a consistent theme across my academic journey. From inline vulnerability documentation in C++ to reverse engineering exercises using NASM and Ghidra, I’ve developed a strong foundation in identifying and mitigating risks. I approach every project with a mindset of ethical responsibility, ensuring that my work upholds both technical excellence and social trust.
 
-🔗 Portfolio Overview
-
-The artifacts in this portfolio represent a curated selection of my work across the Computer Science program. Each project was chosen to highlight a specific dimension of my technical capabilities—from automated testing and modular design to system simulation and secure architecture.
-
-    In CS-320, I built and tested a modular Java contact management system, demonstrating my ability to apply test-driven development and exception handling.
-
-    In CS-350, I designed a Python-based thermostat control system, showcasing controller-based logic and iterative enhancement.
-
-    My capstone project integrates these skills into a comprehensive solution, reflecting my growth in architectural thinking, stakeholder communication, and secure development.
-
-Together, these artifacts form a cohesive narrative of my evolution as a computer scientist. They illustrate not only what I’ve built, but how I think—methodically, ethically, and with a commitment to clarity and maintainability. I invite you to explore the portfolio and see how each piece contributes to a larger vision of responsible, high-impact software engineering.
-
-# 🧠 Anthony's Computer Science Portfolio
+#  Anthony's Computer Science Portfolio
 
 Welcome to my academic and professional portfolio. This site showcases my work across multiple computer science courses, with a focus on secure software development, ethical reverse engineering, and lifecycle-driven design.
 
