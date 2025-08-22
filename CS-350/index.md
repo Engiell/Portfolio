@@ -9,7 +9,8 @@ This page showcases my work in CS-350, where I explored scalable system design, 
 
 ## 📄 Design Documentation
 
-- 📘 [Milestone Two Enhancement Report](CS 499 3-2 Milestone Two Enhancement One Software Design and Engineering.docx): Analysis of architectural improvements and design decisions.
+- 📘 [Milestone Two Enhancement Report](CS%20499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering.docx)
+: Analysis of architectural improvements and design decisions.
 
 ## 💻 Source Code Highlights
 
